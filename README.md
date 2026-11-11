@@ -1,12 +1,12 @@
-# Hello, I'm Muhammad Arman
+# 👋 Hello, I'm Muhammad Arman
 <a href="(https://www.linkedin.com/in/muhdarman/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm an IT Executive based in Shah Alam, Malaysia, with a degree in Computer Networks from UiTM Arau. By day I run Active Directory, MFA, endpoint support and SharePoint. After hours I build security labs and automation projects to grow into a security role.
 
-## Objective
+## 🎯 Objective
 I'm moving from general IT into cybersecurity, aiming for a Security Operations Center (SOC) Tier 1 Analyst role. My networking background and hands-on admin experience give me a solid base for triaging alerts and investigating incidents.
 
-## Skills
+## 🧠 Skills
 
 | Skill | Associated Project |
 |-------|--------------------|
@@ -16,7 +16,7 @@ I'm moving from general IT into cybersecurity, aiming for a Security Operations 
 | Network design (VLAN, DHCP, DNS) | <a href="https://github.com/armanroslan/packet-tracer-network">Packet Tracer Network</a> (in progress) |
 | Identity and access management (Active Directory, MFA) | Professional experience |
 
-## Tools
+## 🛠️ Tools
 
 ### SIEM and Security Lab
 <div>
@@ -36,7 +36,7 @@ I'm moving from general IT into cybersecurity, aiming for a Security Operations 
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-## Certifications
+## 🎓 Certifications
 <div>
     <img src="https://img.shields.io/badge/-Introduction_To_Networks-049FD9?&style=for-the-badge&logo=cisco&logoColor=white" />
 <div>
@@ -47,7 +47,7 @@ I'm moving from general IT into cybersecurity, aiming for a Security Operations 
     <img src="https://img.shields.io/badge/-Cybersecurity_Essentials-049FD9?&style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-## Projects
+## 🚀 Projects
 - **Home SIEM Lab** (in progress): Wazuh manager on Ubuntu, Windows 10 agent, Kali as the attacker
 - **Sophos–SharePoint Automation**: Python integration using REST and Microsoft Graph APIs
 - **Packet Tracer Network** (in progress): full network infrastructure design
