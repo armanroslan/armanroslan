@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Muhammad Arman
 <a href="(https://www.linkedin.com/in/muhdarman/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm an IT Executive based in Shah Alam, Malaysia, with a degree in Computer Networks from UiTM Arau. By day I run Active Directory, MFA, endpoint support and SharePoint. After hours I build security labs and automation projects to grow into a security role.
+I'm an IT Executive based in Petaling Jaya, Selangor, Malaysia, with a degree in Computer Networks from UiTM Arau. By day I run Active Directory, MFA, endpoint support and SharePoint. After hours I build security labs and automation projects to grow into a security role.
 
 ## 🎯 Objective
 I'm moving from general IT into cybersecurity, aiming for a Security Operations Center (SOC) Tier 1 Analyst role. My networking background and hands-on admin experience give me a solid base for triaging alerts and investigating incidents.
