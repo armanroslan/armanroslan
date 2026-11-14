@@ -12,9 +12,9 @@ I'm moving from general IT into cybersecurity, aiming for a Security Operations 
 |-------|--------------------|
 | SIEM deployment and log analysis (Wazuh) | <a href="https://github.com/armanroslan/home-siem-lab">Home SIEM Lab</a> (in progress) |
 | Attack simulation and detection testing | <a href="https://github.com/armanroslan/home-siem-lab">Home SIEM Lab</a> (in progress) |
-| Python automation and API integration (REST, Microsoft Graph) | <a href="https://github.com/armanroslan/sophos-sharepoint-automation">Sophos–SharePoint Automation</a> |
+| Security automation and incident response workflows | <a href="https://github.com/armanroslan/soc-automation">SOC Automation Project</a> (in progress) |
+| Active Directory administration and identity management | <a href="https://github.com/armanroslan/active-directory-lab">Active Directory Lab</a> (in progress) |
 | Network design (VLAN, DHCP, DNS) | <a href="https://github.com/armanroslan/packet-tracer-network">Packet Tracer Network</a> (in progress) |
-| Identity and access management (Active Directory, MFA) | Professional experience |
 
 ## 🛠️ Tools
 
@@ -49,5 +49,6 @@ I'm moving from general IT into cybersecurity, aiming for a Security Operations 
 
 ## 🚀 Projects
 - **Home SIEM Lab** (in progress): Wazuh manager on Ubuntu, Windows 10 agent, Kali as the attacker
-- **Sophos–SharePoint Automation**: Python integration using REST and Microsoft Graph APIs
+- **SOC Automation Project** (in progress): automating alert handling and incident response workflows
+- **Active Directory Lab** (in progress): building and managing a domain environment
 - **Packet Tracer Network** (in progress): full network infrastructure design
